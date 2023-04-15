@@ -4,7 +4,7 @@
 
 Projeto desenvolvido para a disciplina de Programação II, ministrada para o curso de Licenciatura em Computação. O projeto consiste na produção de um sistema que aplique diversas características da programação orientada a objetos, aplicadas na linguagem Java. É possível ver alguns conceitos como Classe Abstrata, Interface, Arquitetura em Camadas e outros. O sistema não está completo, e serviu para aplicar diversos conceitos da disciplina (por exemplo, não há a presença de exceções).
 
-![](../header.png)
+![](header.png)
 
 ## Outras informações
 
